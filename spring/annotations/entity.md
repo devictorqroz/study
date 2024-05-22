@@ -81,9 +81,9 @@ public interface UserRepository extends JpaRepository<User, Long> {
 
 ## Conclusão
 
-###### A annotation @Entity é essencial para trabalhar com JPA e Spring Data JPA, fornecendo uma maneira clara e declarativa de mapear classes Java para tabelas de banco de dados. 
+- A annotation @Entity é essencial para trabalhar com JPA e Spring Data JPA, fornecendo uma maneira clara e declarativa de mapear classes Java para tabelas de banco de dados. 
 
-###### Combinada com outras annotations e a infraestrutura de repositórios do Spring, ela permite uma abordagem poderosa e eficiente para a persistência de dados.
+- Combinada com outras annotations e a infraestrutura de repositórios do Spring, ela permite uma abordagem poderosa e eficiente para a persistência de dados.
 
 &nbsp;
 
